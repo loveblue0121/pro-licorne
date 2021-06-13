@@ -169,7 +169,7 @@ BEM 是 Yandex 團隊提出的 CSS 命名法，注重程式碼的可閱讀性和
   <section class="popular">
     <h3 class="popular__title"></h3>
     <div class="popular__items">
-      <div class="popular-item">
+      <div class="popular__item">
         <div class="popular__rank"></div>
         <div class="popular__card">
           <figure class="popular__img-top">
