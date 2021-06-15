@@ -37,20 +37,26 @@
 /* defined */
 :root {
   /* color */
-  --c-pri-name: ;
-  --c-sec-name: ;
-  
+  --c-primary: #223843; /* Gunmetal */
+  --c-secondary: #FCF9EE; /* Floral White */
+  --c-cultured: #EFF1F3; /* Cultured */
+  --c-lightgray: #C4C4C4; /* Light Gray */
+  --c-champagne: #FFD289; /* Deep Champagne */
+  --c-berry: #C16E70; /* Fuzzy Wuzzy */
+  --c-warning: ;
+
   /* font */
   --f-fam-name: ; /* anything diffrent from default */
   --f-siz-title: ; /* specific item appear in the whole project */
-  --f-siz-m: ;
   --f-siz-s: ;
-  
+  --f-siz-m: ;
+
   /* border-radius */
-  --b-bt: ; /* if needed */
-  --b-s: ;
-  --b-m: ;
-  --b-l: ;
+  --b-btn: 30px;
+  --b-s: 5px;
+  --b-m: 10px;
+
+  /* shadow */
 }
 
 /* default */
